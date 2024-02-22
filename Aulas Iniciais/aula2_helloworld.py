@@ -4,6 +4,7 @@ print('Hello World!')
 """
 
 # CTRL + / permite comentar e descomentar uma linha 
+# CTRL + Space mostra as possibilidades
 
 
 Essa eh uma Docstring
