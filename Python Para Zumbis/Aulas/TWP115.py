@@ -9,7 +9,7 @@ velocidade_do_carro=int(input('Qual a velocidade do carro? '))
 velocidade_maxima=110
 
 if velocidade_do_carro<=velocidade_maxima:
-    print("Tudo OK")
+    print()
 else:
     multa=(velocidade_do_carro-velocidade_maxima)*5
     print(f"O valor da multa eh R$ {multa}")
